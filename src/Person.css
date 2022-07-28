@@ -1,0 +1,18 @@
+div.left{
+    width: 100%; 
+    background-color: #6A0BA8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: '#333';
+}
+
+div.right{
+    width: 100%; 
+    background-color: #DE077D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: '#333';
+}
